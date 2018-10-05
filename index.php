@@ -93,7 +93,7 @@
     <section class="section">
         <div class="wrapper">
         	<h3 class="margin--bottom">Once completed</h3>
-        	<p>Commit your changes on a new branch called tech-test-submission. </p>
+        	<p>Commit your changes and create a new pull request. </p>
         </div>
     </section>
 <?php include('include/footer.php'); ?>
