@@ -1,7 +1,7 @@
 <div class="basket-summary__container js-basket-container wrapper">
 
         <!-- Summary breakdown -->
-        <div class="basket-summary__breakdown basket">
+        <div class="basket-summary__breakdown">
 
             <h2 class="basket-summary__breakdown-title">Your holiday to [region]</h2>
             <p class="basket-summary__breakdown-details">for 2 Adults, 1 Child, 1 Infant for 10 nights from Wed 14 Jul 2017</p>
@@ -88,7 +88,7 @@
         </div>
 
         <!-- Totals & Continue btn (which will be it's own component) -->
-        <div class="basket-summary__totals basket">
+        <div class="basket-summary__totals">
                 <div class="basket-summary__totals-top">
 
                 <div class="basket-summary__ksp">
