@@ -1,3 +1,5 @@
 import $ from 'jquery';
 
-console.log('nick');
+$('.js-basket-desktop-trigger').click(function () {
+    $(this).next().toggleClass('basket-summary__breakdown-content--visible');
+});
